@@ -61,16 +61,17 @@ YouTube-RAG-QA/
 
 ## 🛠 Setup Instructions
 
-### Install Dependencies
+### Clone Repository
 
 ```bash
-pip install langchain
-pip install langchain-community
-pip install transformers
-pip install sentence-transformers
-pip install faiss-cpu
-pip install youtube-transcript-api
-pip install torch
+git clone https://github.com/yourusername/AI-Agent-Using-LangChain.git
+cd Youtube_Chatbot
+```
+
+### Install Requirements
+
+```bash
+pip install -r requirements.txt
 ```
 
 ---
