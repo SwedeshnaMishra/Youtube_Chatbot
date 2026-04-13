@@ -64,7 +64,7 @@ YouTube-RAG-QA/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Agent-Using-LangChain.git
+git clone https://github.com/SwedeshnaMishra/Youtube_Chatbot.git
 cd Youtube_Chatbot
 ```
 
